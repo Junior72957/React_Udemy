@@ -16,14 +16,14 @@
       "price": 29.9
     },
     {
-      "name": "teste",
-      "price": "10",
-      "id": 4
-    },
-    {
       "name": "Capa de chuva",
       "price": "49.90",
       "id": 5
+    },
+    {
+      "name": "teclado",
+      "price": "50",
+      "id": 7
     }
   ]
 }
